@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: seacorals-server
+    env: docker
+    repo: https://github.com/efeedemirci/seacorals
+    plan: free
+    rootDir: model_to_server
