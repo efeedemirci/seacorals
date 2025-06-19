@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+pillow
+torch
+ultralytics>=8.0.0
+python-multipart
